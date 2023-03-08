@@ -70,6 +70,7 @@ body {
 p {
     font-size: 16px;
 }
+
 /* benefits styles */
 .benefits {
     margin-right: 20px;
@@ -124,7 +125,6 @@ p {
 }
 
 /* footer styles */
-
 .footer {
     padding: 30px;
     clear: both;
