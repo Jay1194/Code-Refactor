@@ -9,7 +9,7 @@ In this project I have refactored starter code, My motivation for this project i
 
 ## Deployment
 
-* Application Deployment URL - https://jay1194.github.io/Code-Refactor-HTML-GIT-CSS/
+* Application Deployment URL - https://github.com/Jay1194/Code-Refactor
 
 *  GitHub Repository - https://github.com/Jay1194/Code-Refactor-HTML-GIT-CSS
 
